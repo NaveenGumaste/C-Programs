@@ -1,0 +1,18 @@
+{
+	"files.associations": {
+		"decimaltohexforloop": "c",
+		"sstream": "c",
+		"POINTERWITHFUN.C": "cpp",
+		"pointerwithfunctions.C": "cpp",
+		"allpointerwithfunctions.C": "cpp"
+	},
+	"C_Cpp.errorSquiggles": "disabled",
+	"cSpell.words": [
+		"accno",
+		"datainput",
+		"datofjoin",
+		"funarr",
+		"structsortaccno",
+		"structsortname"
+	]
+}
